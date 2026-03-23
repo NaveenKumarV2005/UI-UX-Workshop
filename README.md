@@ -80,6 +80,10 @@ Vid Stream showcases how effective UI/UX design can improve the streaming experi
 # OUTPUT 
 # Sign Page 
 <img width="851" height="950" alt="image" src="https://github.com/user-attachments/assets/68b860e2-4098-429e-a91f-e5ebd342a558" />
+
 # HomePage 
-  <img width="1873" height="804" alt="Screenshot 2026-02-16 143626" src="https://github.com/user-attachments/assets/49c63eaa-8d71-4812-9de3-c14995607a89" />
+<img width="1873" height="804" alt="Screenshot 2026-02-16 143626" src="https://github.com/user-attachments/assets/49c63eaa-8d71-4812-9de3-c14995607a89" />
+
+# Result
+The webpage for Medi Scan with UI and UX was created using figma successfully.
 
