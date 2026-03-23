@@ -1,4 +1,5 @@
-# UI-UX-WorkshopVid Stream – Smart OTT Video Streaming Platform 
+# UI-UX-Workshop
+# Vid Stream – Smart OTT Video Streaming Platform 
 # 1.	Introduction 
 The entertainment industry has shifted significantly toward digital streaming platforms, making OTT applications an essential part of modern media consumption. However, many existing platforms contain visually crowded interfaces and complex navigation flows that reduce accessibility, especially for new users. Vid Stream was developed as a hackathon project to design a simplified yet cinematic OTT experience. The project emphasizes visual hierarchy, consistent UI patterns, and smooth interaction design. By combining modern UI/UX practices with responsive layouts, Vid Stream aims to deliver a professional streaming interface that balances aesthetics and usability. 
  
